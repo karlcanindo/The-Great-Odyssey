@@ -1,3 +1,5 @@
 # The-Great-Odyssey
 
-Readme Test file
+Aloha!
+
+My Name is Helbert John Balasa
