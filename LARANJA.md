@@ -1,3 +1,3 @@
 # The-Great-Odyssey
 
-by Karl Francis
+XEdric Llonel
